@@ -14,6 +14,13 @@
 		C3D6BFC020D94B76009247E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3D6BFBE20D94B76009247E6 /* LaunchScreen.storyboard */; };
 		C3D6BFCB20D94B76009247E6 /* MonopolyDiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D6BFCA20D94B76009247E6 /* MonopolyDiceTests.swift */; };
 		C3D6BFD620D94B76009247E6 /* MonopolyDiceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D6BFD520D94B76009247E6 /* MonopolyDiceUITests.swift */; };
+		C3D6BFE420D950B0009247E6 /* dice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3D6BFE320D950AF009247E6 /* dice.jpg */; };
+		C3D6BFEB20D95549009247E6 /* dice3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3D6BFE520D95548009247E6 /* dice3.jpg */; };
+		C3D6BFEC20D95549009247E6 /* dice5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3D6BFE620D95548009247E6 /* dice5.jpg */; };
+		C3D6BFED20D95549009247E6 /* dice6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3D6BFE720D95549009247E6 /* dice6.jpg */; };
+		C3D6BFEE20D95549009247E6 /* dice4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3D6BFE820D95549009247E6 /* dice4.jpg */; };
+		C3D6BFEF20D95549009247E6 /* dice2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3D6BFE920D95549009247E6 /* dice2.jpg */; };
+		C3D6BFF020D95549009247E6 /* dice1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3D6BFEA20D95549009247E6 /* dice1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +54,13 @@
 		C3D6BFD120D94B76009247E6 /* MonopolyDiceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MonopolyDiceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3D6BFD520D94B76009247E6 /* MonopolyDiceUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonopolyDiceUITests.swift; sourceTree = "<group>"; };
 		C3D6BFD720D94B76009247E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3D6BFE320D950AF009247E6 /* dice.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice.jpg; sourceTree = "<group>"; };
+		C3D6BFE520D95548009247E6 /* dice3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice3.jpg; sourceTree = "<group>"; };
+		C3D6BFE620D95548009247E6 /* dice5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice5.jpg; sourceTree = "<group>"; };
+		C3D6BFE720D95549009247E6 /* dice6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice6.jpg; sourceTree = "<group>"; };
+		C3D6BFE820D95549009247E6 /* dice4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice4.jpg; sourceTree = "<group>"; };
+		C3D6BFE920D95549009247E6 /* dice2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice2.jpg; sourceTree = "<group>"; };
+		C3D6BFEA20D95549009247E6 /* dice1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +111,13 @@
 		C3D6BFB420D94B76009247E6 /* MonopolyDice */ = {
 			isa = PBXGroup;
 			children = (
+				C3D6BFEA20D95549009247E6 /* dice1.jpg */,
+				C3D6BFE920D95549009247E6 /* dice2.jpg */,
+				C3D6BFE520D95548009247E6 /* dice3.jpg */,
+				C3D6BFE820D95549009247E6 /* dice4.jpg */,
+				C3D6BFE620D95548009247E6 /* dice5.jpg */,
+				C3D6BFE720D95549009247E6 /* dice6.jpg */,
+				C3D6BFE320D950AF009247E6 /* dice.jpg */,
 				C3D6BFB520D94B76009247E6 /* AppDelegate.swift */,
 				C3D6BFB720D94B76009247E6 /* ViewController.swift */,
 				C3D6BFB920D94B76009247E6 /* Main.storyboard */,
@@ -232,8 +253,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3D6BFED20D95549009247E6 /* dice6.jpg in Resources */,
+				C3D6BFEE20D95549009247E6 /* dice4.jpg in Resources */,
+				C3D6BFEB20D95549009247E6 /* dice3.jpg in Resources */,
+				C3D6BFE420D950B0009247E6 /* dice.jpg in Resources */,
+				C3D6BFF020D95549009247E6 /* dice1.jpg in Resources */,
 				C3D6BFC020D94B76009247E6 /* LaunchScreen.storyboard in Resources */,
 				C3D6BFBD20D94B76009247E6 /* Assets.xcassets in Resources */,
+				C3D6BFEC20D95549009247E6 /* dice5.jpg in Resources */,
+				C3D6BFEF20D95549009247E6 /* dice2.jpg in Resources */,
 				C3D6BFBB20D94B76009247E6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -428,6 +456,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = MonopolyDice/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.byaj.MonopolyDice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -442,6 +471,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = MonopolyDice/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.byaj.MonopolyDice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
